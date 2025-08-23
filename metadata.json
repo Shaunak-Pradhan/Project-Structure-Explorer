@@ -1,0 +1,5 @@
+{
+  "name": "Project Structure Explorer",
+  "description": "An interactive tool to generate and explore software project directory structures for various technologies and complexity levels, powered by Gemini.",
+  "requestFramePermissions": []
+}
